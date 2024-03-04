@@ -1,3 +1,3 @@
-#Paka Kim GitHub.
-#There's nothing special.
-#Korean. South Korea.
+Paka Kim GitHub.
+There's nothing special.
+Korean. South Korea.
